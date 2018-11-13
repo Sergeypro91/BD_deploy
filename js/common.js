@@ -10,7 +10,7 @@ $('.slider').owlCarousel({
     loop:true,
     autoplay: true,
 	slideSpeed: 8600,
-	paginationSpeed: 400,
+	paginationSpeed: 8600,
 	autoplayHoverPause: true,
     items: 1
 })
