@@ -8,9 +8,8 @@ $(".nav--search-hide").click(function(){
 
 $('.slider').owlCarousel({
     loop:true,
-    margin:30,
     autoplay: true,
-	slideSpeed: 300,
+	slideSpeed: 8600,
 	paginationSpeed: 400,
 	autoplayHoverPause: true,
     items: 1
