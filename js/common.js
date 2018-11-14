@@ -19,7 +19,7 @@ $( document ).ready(function() {
   })
   owl.on('translate.owl.carousel',function(e){
     $('.owl-item video').each(function(){
-      $(this).get(0).pause();
+      $(this).get(0).play();
     });
   });
   owl.on('translated.owl.carousel',function(e){
